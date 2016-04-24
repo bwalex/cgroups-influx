@@ -1,0 +1,113 @@
+{
+	"ImportPath": "github.com/bwalex/cgroups-influx",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.9.0-15-g219c8cb",
+			"Rev": "219c8cb75c258c552e999735be6df753ffc7afdc"
+		},
+		{
+			"ImportPath": "github.com/bwalex/go-cgroups",
+			"Rev": "0cb954e13e73ccfc2850a97e13e73df77330a8c4"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/client",
+			"Comment": "v2.3.0-393-ga553ea8",
+			"Rev": "a553ea8ba72cd9a57b62f8f7d2e57fae5e087610"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/pkg/pathutil",
+			"Comment": "v2.3.0-393-ga553ea8",
+			"Rev": "a553ea8ba72cd9a57b62f8f7d2e57fae5e087610"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/pkg/types",
+			"Comment": "v2.3.0-393-ga553ea8",
+			"Rev": "a553ea8ba72cd9a57b62f8f7d2e57fae5e087610"
+		},
+		{
+			"ImportPath": "github.com/docker/libkv",
+			"Comment": "v0.1.0-35-g7283ef2",
+			"Rev": "7283ef27ed32fe267388510a91709b307bb9942c"
+		},
+		{
+			"ImportPath": "github.com/docker/libkv/store",
+			"Comment": "v0.1.0-35-g7283ef2",
+			"Rev": "7283ef27ed32fe267388510a91709b307bb9942c"
+		},
+		{
+			"ImportPath": "github.com/docker/libkv/store/consul",
+			"Comment": "v0.1.0-35-g7283ef2",
+			"Rev": "7283ef27ed32fe267388510a91709b307bb9942c"
+		},
+		{
+			"ImportPath": "github.com/docker/libkv/store/etcd",
+			"Comment": "v0.1.0-35-g7283ef2",
+			"Rev": "7283ef27ed32fe267388510a91709b307bb9942c"
+		},
+		{
+			"ImportPath": "github.com/docker/libkv/store/zookeeper",
+			"Comment": "v0.1.0-35-g7283ef2",
+			"Rev": "7283ef27ed32fe267388510a91709b307bb9942c"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/consul/api",
+			"Comment": "v0.6.4-231-g6bc6ce6",
+			"Rev": "6bc6ce671e20e605e1c92a29d07553627cc325a9"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/go-cleanhttp",
+			"Rev": "ad28ea4487f05916463e2423a55166280e8254b5"
+		},
+		{
+			"ImportPath": "github.com/hashicorp/serf/coordinate",
+			"Comment": "v0.7.0-54-g44945ab",
+			"Rev": "44945ab711fb48f1cee51d248568487b938c178d"
+		},
+		{
+			"ImportPath": "github.com/inconshreveable/mousetrap",
+			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/client/v2",
+			"Comment": "v0.10.0-854-g93745d9",
+			"Rev": "93745d96939f0af828921eb550a74bd52befda6d"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/models",
+			"Comment": "v0.10.0-854-g93745d9",
+			"Rev": "93745d96939f0af828921eb550a74bd52befda6d"
+		},
+		{
+			"ImportPath": "github.com/influxdata/influxdb/pkg/escape",
+			"Comment": "v0.10.0-854-g93745d9",
+			"Rev": "93745d96939f0af828921eb550a74bd52befda6d"
+		},
+		{
+			"ImportPath": "github.com/samuel/go-zookeeper/zk",
+			"Rev": "218e9c81c0dd8b3b18172b2bbfad92cc7d6db55f"
+		},
+		{
+			"ImportPath": "github.com/spf13/cobra",
+			"Rev": "4c05eb1145f16d0e6bb4a3e1b6d769f4713cb41f"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Rev": "8f6a28b0916586e7f22fe931ae2fcfc380b1c0e6"
+		},
+		{
+			"ImportPath": "github.com/ugorji/go/codec",
+			"Rev": "a396ed22fc049df733440d90efe17475e3929ccb"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "c2528b2dd8352441850638a8bb678c2ad056fd3e"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "e11762ca30adc5b39fdbfd8c4250dabeb8e456d3"
+		}
+	]
+}
